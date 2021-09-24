@@ -11,7 +11,7 @@
     "@panter/vue-i18next": "^0.15.2",
     "@popperjs/core": "^2.10.1",
     "@tailwindcss/forms": "^0.3.3",
-    "@vue/runtime-core": "^3.2.12",
+    "@vue/runtime-core": "^3.2.18",
     "core-js": "^3.18.0",
     "icon.place": "^1.0.3",
     "postcss": "^7.0.35",
